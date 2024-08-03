@@ -22,6 +22,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "fonts": {
+      "custom-font": "./assets/fonts/GaMaamliRegular.ttf"
+    },
+    "plugins": ["expo-font"]
   }
 }
